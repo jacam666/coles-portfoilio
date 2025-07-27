@@ -22,11 +22,11 @@ export default function NicolePortfolio() {
             <div className="relative">
               <div className="absolute inset-0 bg-white rounded-full opacity-20 blur-lg transform scale-110"></div>
               <Image
-                src="/images/headshot.jpg"
+                src="/images/headshot2.jpg"
                 alt="Nicole Cameron"
-                className="relative w-48 h-48 md:w-56 md:h-56 rounded-full border-4 border-white shadow-2xl object-cover"
-                width={224}
-                height={224}
+                className="relative w-32 h-32 md:w-40 md:h-40 rounded-full border-4 border-white shadow-2xl object-cover"
+                width={160}
+                height={160}
               />
             </div>
           </div>
